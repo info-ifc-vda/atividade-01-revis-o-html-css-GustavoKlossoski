@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap');
+
+.site-header {
+  background-color: rgb(97, 71, 71);
+  padding: 1px;
+  text-align: center;
+}
+
+.fonte-titulo {
+  font-family: 'Manufacturing Consent', serif;
+  font-size: 80px;
+  color: rgb(223, 217, 217);
+}
+
+.container {
+  width: 95%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.site-main {
+  padding: 15px;
+}
+
+#noticias {
+  display: flex;
+  gap: 30px;
+  margin: 20px;
+}
+
+.content p {
+  font-family: 'Almendra', serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.site-footer {
+  background-color: rgb(92, 73, 73);
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+}
+
+h1,h2,h3 {
+  font-family: 'Almendra', serif;
+  letter-spacing: 1px;
+}
+
+.content {
+  flex: 1;
+  background-color: #f4ecd8; /* Cor de papel antigo */
+  padding: 20px;
+  border-radius: 2px; /* Bordas menos arredondadas ficam mais sérias */
+  border: 4px double #5d4037; /* Borda dupla estilosa */
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.1); /* Sombra suave */
+}
+
+.tamanho {
+  font-size: 20px;
+}
