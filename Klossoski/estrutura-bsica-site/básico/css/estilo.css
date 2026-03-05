@@ -50,11 +50,11 @@ h1,h2,h3 {
 
 .content {
   flex: 1;
-  background-color: #f4ecd8; /* Cor de papel antigo */
+  background-color: #f4ecd8; 
   padding: 20px;
-  border-radius: 2px; /* Bordas menos arredondadas ficam mais sérias */
-  border: 4px double #5d4037; /* Borda dupla estilosa */
-  box-shadow: 3px 3px 10px rgba(0,0,0,0.1); /* Sombra suave */
+  border-radius: 2px; 
+  border: 4px double #5d4037; 
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
 }
 
 .tamanho {
